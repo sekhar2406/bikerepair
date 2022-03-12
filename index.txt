@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Pc Repair</title>
+</head>
+<body>
+    <header>
+    <div>
+        <a href="#">Bike Repair</a>
+        <div>
+            <a href="#">About</a>
+            <a href="#">Contactr</a>
+            <a href="#">Services</a>
+        </div>
+    </div>
+</header>
+
+<div>
+    <h1>Bike Repair</h1>
+</div>
+<footer>
+    <h3>Bike repair</h3>
+    <p>webmaster <a href="#">Sekhar reddy</a></p>
+</footer>
+</body>
+
+</html>
